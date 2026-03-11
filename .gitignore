@@ -11,3 +11,5 @@ data/.~lock.*
 *.csv
 *.csv#
 *.sqlite3-journal
+config.bat
+node_modules
